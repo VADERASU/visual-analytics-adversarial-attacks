@@ -1,0 +1,23 @@
+.no-repeat-bar {
+    background-repeat: no-repeat !important;
+}
+
+.ant-table-placeholder {
+    display: none;
+}
+
+#target-view .ant-card-body {
+    padding: 0;
+}
+
+/*#global-summary-view {*/
+/*    border-color: #282c34;*/
+/*}*/
+
+/*#target-view {*/
+/*    border-color: #282c34;*/
+/*}*/
+
+/*#data-overview {*/
+/*    border-color: #282c34;*/
+/*}*/

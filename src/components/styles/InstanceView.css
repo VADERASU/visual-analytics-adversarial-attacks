@@ -1,0 +1,32 @@
+.stop-left1 {
+    stop-color: #73bdff; /* Indigo */
+    stop-opacity: 0.3;
+}
+
+.stop-right1 {
+    stop-color: #73bdff; /* Teal */
+    stop-opacity: 0;
+}
+
+.stop-left2 {
+    stop-color: #ff9769; /* Indigo */
+    stop-opacity: 0.3;
+}
+
+.stop-right2 {
+    stop-color: #ff9769; /* Teal */
+    stop-opacity: 0;
+}
+
+.compact {
+    padding-top: 0%;
+    padding-bottom: 0%;
+}
+
+#instance-view .ant-card-body {
+    padding: 0;
+}
+
+/*#instance-view {*/
+/*    border-color: #282c34;*/
+/*}*/

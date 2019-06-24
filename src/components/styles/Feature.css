@@ -1,0 +1,24 @@
+#feature-base-wrapper {
+    overflow-y: scroll;
+}
+
+#feature-view .ant-card-body {
+    padding: 0;
+}
+
+.feature-axis .tick {
+    color: #555555;
+}
+
+.feature-axis .tick line {
+    display: none;
+}
+
+.feature-axis .domain {
+    stroke: #555555;
+}
+
+/*#feature-view {*/
+/*    border-color: #282c34;*/
+/*}*/
+

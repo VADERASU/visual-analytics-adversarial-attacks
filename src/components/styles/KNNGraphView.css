@@ -1,0 +1,11 @@
+.dimmed-elements {
+    opacity: 0.3 !important;
+}
+
+.forced-display-none {
+    display: none !important;
+}
+
+/*#local-impact-view {*/
+/*    border-color: #282c34;*/
+/*}*/

@@ -1,0 +1,27 @@
+.attack-node {
+    fill: #fff;
+    stroke: #eee;
+    stroke-width: 1px;
+}
+
+.node text {
+    font: 12px sans-serif;
+}
+
+/* .link {
+    fill: none;
+    stroke: #ccc;
+    stroke-width: 2px;
+  } */
+
+.progressbar {
+    fill: #42a5f5;
+}
+
+.progressbar-fill {
+    fill: #1e88e5;
+}
+
+.progressbar-text {
+    fill: #fff;
+}
